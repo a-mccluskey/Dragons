@@ -1,0 +1,28 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<title>DRAGONS Brief descripton</title>
+<link rel="alternate" type="application/rss+xml" title="WEBSITE NAME news feed" href="http://www.atomway.co.uk/rss.shtml" />
+<!-- the rss.shtml page gives a summery of the latest changes, this is where this page is useful-->
+<!--#include file="header.shtml" -->
+<!-- pulls in the template data, navigaion structure & logos.-->
+
+<h1>Welcome to DRAGONS!</h1>
+Best to give a description of the website's purpose here.<p>
+
+<h2>Latest news</h2><p>
+<!--#include file="hp/news.shtml" -->
+<!-- that doesnt need to be an shtml file, it's just a little easier to futureproof if we ever need it.-->
+<p><hr>
+<div id="count"><h2>The Daily Dynamic content</h2><p>
+Here is a small section designed to generate content dependant on the day, I'd used this as a Mysic Meg type bit.<br>
+<!--#include file="hp/dailydynamic.shtml" -->
+</p><hr></div>
+
+<h2>Whats new round here recently?</h2>
+<!--#include file="hp/new.shtml" -->
+<!-- same goes for news and updates, using shtml allows content to be released on a schedule -->
+<hr><h2>Any updates?</h2>
+<!--#include file="hp/updated.shtml" --><p>
+<!-- useful for letting users know when somethings been updated -->
+
+<!--#include file="footer.shtml" -->

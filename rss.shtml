@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>AtomWay.co.uk</title>
+    <link>http://www.atomway.co.uk</link>
+    <description>The latest news from AtomWay.co.uk</description>
+    <item>
+      <title>Latest News</title>
+      <link>http://www.atomway.co.uk</link>
+      <description><!--#include virtual="hp/news.shtml" --></description>
+<pubDate><!--#config timefmt="%a, %d %b %Y %T"--><!--#flastmod virtual="hp/news.shtml" --> GMT</pubDate>
+    </item>
+    <item>
+      <title>Psychic Message</title>
+      <link>http://www.atomway.co.uk/psychic_rules.shtml</link>
+      <description><!--#include virtual="hp/psychic.shtml" --></description>
+<pubDate><!--#config timefmt="%a, %d %b %Y %T"--><!--#echo var="DATE_LOCAL" --> GMT</pubDate>
+    </item>
+    <image>
+      <title>AtomWay.co.uk</title>
+      <url>http://www.atomway.co.uk/design/atomway.png</url>
+      <link>http://www.atomway.co.uk</link>
+    </image>
+  </channel>
+</rss>

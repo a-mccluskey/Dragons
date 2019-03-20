@@ -1,0 +1,13 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<title>~Dragons :: Article title goes here~</title>
+<!--#include virtual="header.shtml" -->
+<h1>The main title of the article and a brief description goes here.</h1>
+
+The first section is designed to be a brief summery about the article, this appears in a different font, to make it look good.<p>
+Content of the page goes here but it needs to be several lines long, before any line breaks or paragraph breaks.<br>
+This is a new line, this is just for emphasis on a certain point.<p>
+
+This is a new paragraph use this to illistrate a new direction of article
+
+<!--#include virtual="footer.shtml" -->
