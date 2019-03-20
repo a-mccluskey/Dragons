@@ -1,0 +1,10 @@
+<li><a href="<!--#ECHO VAR="route_to_root" -->aw.shtml">AtomWay</a></li>
+<li><a href="<!--#ECHO VAR="route_to_root" -->dw.shtml">Doctor Who</a></li>
+<li><a href="<!--#ECHO VAR="route_to_root" -->dl.shtml">Downloads</a></li>
+<li><a href="<!--#ECHO VAR="route_to_root" -->fact.shtml">Factual</a></li>
+<li><a href="<!--#ECHO VAR="route_to_root" -->funny.shtml">Funny</a></li>
+<li><a href="<!--#ECHO VAR="route_to_root" -->adamson/">Mr. Adamson</a></li>
+<li><a href="<!--#ECHO VAR="route_to_root" -->/wp/">Mr. Adamson's Blog</a></li>
+<li><a href="http://steaming-fish.blogspot.com">My Blog</a></li>
+<li><a href="<!--#ECHO VAR="route_to_root" -->rant.shtml">Rants</a></li>
+<li><a href="<!--#ECHO VAR="route_to_root" -->site_map.shtml">Site Map</a></li>

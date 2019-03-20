@@ -1,0 +1,19 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="Adam's Atomway.co.uk, featureing Mr. Adamson, Big Chief Who, how to kill a dalek, My blog and a whole lot more.">
+<link rel="shortcut icon" href="<!--#ECHO VAR="route_to_root" -->design/icon.ico">
+<link rel=stylesheet type="text/css" href="<!--#ECHO VAR="route_to_root" -->design/dragons.css">
+<script type="text/javascript" src="<!--#ECHO VAR="route_to_root" -->design/sleight.js"></script></head>
+<body><div id="head"><a href="<!--#ECHO VAR="route_to_root" -->">
+<!--#include file="./logo.shtml" -->
+</div>
+<div id="time"><!--#config timefmt="%d/%m/%Y %T" --><!--#echo var="DATE_LOCAL" --></div>
+<div id="nav"><ul class="navi">
+<!--Site Wide Navigation-->
+<!--#include file="./nav.shtml" -->
+</ul><!--Site search-->
+
+<p class="counter">
+<a href="http://validator.w3.org/check?uri=referer"><br>
+<img src="<!--#ECHO VAR="route_to_root" -->design/valid.gif" alt="Valid HTML 4.01 Strict"></a>
+</p>
+</div><div id="main">
