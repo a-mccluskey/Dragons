@@ -1,10 +1,9 @@
-<li><a href="<!--#ECHO VAR="route_to_root" -->aw.shtml">AtomWay</a></li>
-<li><a href="<!--#ECHO VAR="route_to_root" -->dw.shtml">Doctor Who</a></li>
-<li><a href="<!--#ECHO VAR="route_to_root" -->dl.shtml">Downloads</a></li>
-<li><a href="<!--#ECHO VAR="route_to_root" -->fact.shtml">Factual</a></li>
-<li><a href="<!--#ECHO VAR="route_to_root" -->funny.shtml">Funny</a></li>
-<li><a href="<!--#ECHO VAR="route_to_root" -->adamson/">Mr. Adamson</a></li>
-<li><a href="<!--#ECHO VAR="route_to_root" -->/wp/">Mr. Adamson's Blog</a></li>
-<li><a href="http://steaming-fish.blogspot.com">My Blog</a></li>
-<li><a href="<!--#ECHO VAR="route_to_root" -->rant.shtml">Rants</a></li>
-<li><a href="<!--#ECHO VAR="route_to_root" -->site_map.shtml">Site Map</a></li>
+<li><a href="<!--#ECHO VAR="route_to_root" -->page_1.shtml">Example page 1</a></li>
+<li><a href="<!--#ECHO VAR="route_to_root" -->page_2.shtml">Example page 2</a></li>
+<li><a href="<!--#ECHO VAR="route_to_root" -->page_3.shtml">Example page 3</a></li>
+<li><a href="<!--#ECHO VAR="route_to_root" -->page_4.shtml">Example page 4</a></li>
+<li><a href="<!--#ECHO VAR="route_to_root" -->page_5.shtml">Example page 5</a></li>
+<li><a href="<!--#ECHO VAR="route_to_root" -->page_6.shtml">Example page 6</a></li>
+<li><a href="<!--#ECHO VAR="route_to_root" -->page_7.shtml">Example page 7</a></li>
+<li><a href="<!--#ECHO VAR="route_to_root" -->page_8.shtml">Example page 8</a></li>
+<li><a href="<!--#ECHO VAR="route_to_root" -->page_9.shtml">Example page 9</a></li>
