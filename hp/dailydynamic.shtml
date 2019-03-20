@@ -1,0 +1,15 @@
+<!--#config timefmt="%y%m%d" -->
+
+<!--#echo var="DATE_LOCAL" -->
+
+<!--#if expr="$DATE_LOCAL = '081014'" -->
+14.10.2008 - Just change the date in the above line. The first line needs to start if expr
+<!--#elif expr="$DATE_LOCAL = '081015'" -->
+15.10.2008 - Now copy and paste this line and change the date. the remaining lines need to start elif expr
+<!--#elif expr="$DATE_LOCAL = '081016'" -->
+16.10.2008 - another example.
+<!--#elif expr="$DATE_LOCAL = '090126'" -->
+26.1.2009 - The last of the examples.
+<!--#else -->
+Finally if there is no update for this specific date then this statement is produced instead.
+<!--#endif -->
