@@ -1,0 +1,116 @@
+/*fonts I could use
+'Bookman Old Style', 'Book Antiqua', 'Arial Narrow', Georgia, Impact, 'Lucida Grande', Tahoma*/
+html,body {
+	margin: 0 0 0 0;
+	padding: 0;
+	background-color: #c8FFc8;
+	font-family: 'Bookman Old Style', 'Arial Narrow';
+	background-image: url(bk.jpg);
+	background-repeat: repeat;}
+body {
+ scrollbar-arrow-color:      #000;
+ scrollbar-face-color:       #C8C8FF;
+ scrollbar-track-color:      #B4B4FA;
+ scrollbar-3dlight-color:    #000;
+ scrollbar-darkshadow-color: #000;
+ scrollbar-highlight-color:  #C8C8FF;
+ scrollbar-shadow-color:     #000;}
+img{border: 0;}
+.left{float:left;}
+.right{float:right;}
+p {font-family: Tahoma, Helvetica, sans-serif; font-size: small;
+ font-style: normal;}
+p.counter { font-family: Georgia, 'Bookman Old Style', Tahoma, Helvetica, sans-serif;
+ text-align: center;}
+p.alt { color: #206; }
+h1 {
+ font-size: large;
+ color: #FB0;
+ font-weight: bold;
+ text-align: center;}
+h2 {
+ font-size: medium;
+ color: #D70;
+ font-weight: bold;}
+h3 {
+ font-size: medium;
+ color: #D40;
+ font-weight: normal;
+ line-height: 0px;}
+ul.navi {
+ background: transparent url('menuoff.png') top left repeat;
+ line-height: 29px;
+ list-style: none;
+ padding-left: 8px;
+ text-indent: -5px;}
+#time {
+ position: absolute;
+ top: 5px;
+ text-align: center;
+ width: 135px;}
+#announce {
+ position: absolute;
+ left: 50%;
+ top: 4px;
+ height: 100px;
+ color: rgb(0, 0, 128);
+ font-weight: bold;
+ font-size: large;
+ font-family: Ariel, Tahoma, Helvetica, sans-serif;}
+#head {
+ margin: 0 0 0 149px;
+ height: 119px;
+ background-color: #99F;
+ background-repeat: repeat-x;}
+#main {
+ position: absolute;
+ margin: 2px 0 0 0;
+ top: 119px;
+ left: 145px;
+ right: 15px;
+ font-size: small; }
+#main a {
+ color: #000;
+ font-weight: bold;}
+#main a:hover {
+ background-color: #FF2;
+ font-style: italic;}
+#main li { font-style: bold; }
+#nav {
+ position: absolute;
+ top: 130px;
+ width: 140px;}
+#nav a { 
+ color: #FDFD90;
+ height: 29px;}
+#msn img { padding-left: 25px;}
+address {
+ text-align: center;
+ color: #E05;
+ padding-top: 1em;
+ border-top: thin dotted;
+ clear: both;}
+#nav a:hover {
+ background: transparent url('menuon.png') center left repeat-x;
+ width: 140px:
+ color: #FDFD50;
+ font-weight: bold;
+ min-height: 40px; }
+#poll {
+ background-color: #FFC8C8;
+ border: 1px;
+ border-color: #F00;
+ border-style: solid;
+ width:250px;
+ margin: 2px 5px 10px 5px;
+ padding: 2px 10px 0 5px;
+ float:right; 
+ text-align: center;}
+hr {
+ border: 0;
+ color: #F05;
+ background-color: #F05;
+ height: 1px;
+ width: 90%;
+ text-align: center;
+ clear: both;}
