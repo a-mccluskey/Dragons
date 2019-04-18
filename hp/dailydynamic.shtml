@@ -1,7 +1,4 @@
-<!--#config timefmt="%y%m%d" -->
-
-<!--#echo var="DATE_LOCAL" -->
-
+<!--#config timefmt="%y%m%d" --><!--#echo var="DATE_LOCAL" -->
 <!--#if expr="$DATE_LOCAL = '081014'" -->
 14.10.2008 - Just change the date in the above line. The first line needs to start if expr
 <!--#elif expr="$DATE_LOCAL = '081015'" -->
